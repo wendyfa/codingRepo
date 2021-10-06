@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KivaConstructorTest
+comment0.text=\n\ Write\ a\ description\ of\ KivaConstructorTest\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\n\ Tears\ down\ the\ test\ fixture.\n\n\ Called\ after\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testSingleArgumentConstructor()
+comment4.params=
+comment4.target=void\ testTwoArgumentConstructor()
+comment5.params=a\ b
+comment5.target=boolean\ sameLocation(edu.duke.Point,\ edu.duke.Point)
+numComments=6
